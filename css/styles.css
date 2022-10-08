@@ -67,3 +67,12 @@ bold{
     padding-bottom: 5px;
     color:white;
 }
+
+
+vaccination{
+    color : orange;
+}
+
+deaths{
+    color : blue;
+}
