@@ -68,11 +68,10 @@ bold{
     color:white;
 }
 
-
 vaccination{
-    color: orange;
+    color : rgb(228, 182, 97);
 }
 
 deaths{
-    color: blue;
+    color : rgb(62, 62, 184);
 }
